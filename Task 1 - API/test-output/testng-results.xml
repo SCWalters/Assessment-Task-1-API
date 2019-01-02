@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4230" started-at="2019-01-02T02:46:59Z" finished-at="2019-01-02T02:47:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4230" started-at="2019-01-02T02:46:59Z" finished-at="2019-01-02T02:47:03Z">
+      <class name="Task_1.Main">
+        <test-method status="PASS" signature="readBreedName()[pri:0, instance:Task_1.Main@6f7fd0e6]" name="readBreedName" duration-ms="2751" started-at="2019-01-02T02:46:59Z" finished-at="2019-01-02T02:47:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readBreedName -->
+        <test-method status="PASS" signature="readImageUrl()[pri:0, instance:Task_1.Main@6f7fd0e6]" name="readImageUrl" duration-ms="571" started-at="2019-01-02T02:47:02Z" finished-at="2019-01-02T02:47:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readImageUrl -->
+        <test-method status="PASS" signature="readSubBreed()[pri:0, instance:Task_1.Main@6f7fd0e6]" name="readSubBreed" duration-ms="219" started-at="2019-01-02T02:47:02Z" finished-at="2019-01-02T02:47:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readSubBreed -->
+        <test-method status="PASS" signature="verifyBreed()[pri:0, instance:Task_1.Main@6f7fd0e6]" name="verifyBreed" duration-ms="646" started-at="2019-01-02T02:47:02Z" finished-at="2019-01-02T02:47:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBreed -->
+      </class> <!-- Task_1.Main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
